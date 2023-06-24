@@ -1,5 +1,5 @@
 # Web_Crawler_OS_Project
-##THEORY:
+THEORY:
 A multi-threaded web crawler involves several operating system concepts. Here are 
 some of them:
 
